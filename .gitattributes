@@ -1,1 +1,3 @@
-ApiServer/* linguist-vendored
+*.py linguist-language=Python
+*.js linguist-language=Javascript
+*.html linguist-language=HTML
