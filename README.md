@@ -7,4 +7,9 @@ acquiring remote access to the machine and performing various actions on the mac
 
 We also provide a manual interface wherer a user can go and perform the same actions incase if he doesn't want to use the chatbot for the same.
 
+
+<p align="center">
+<img src="https://github.com/aj2429/Cloud-Management-Automation/blob/master/images/Architecture.jpg"></img></p>
+
+
 [Implementation and Project Report](https://github.com/aj2429/Cloud-Management-Automation/blob/master/Report.pdf)
